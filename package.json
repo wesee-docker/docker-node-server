@@ -4,8 +4,6 @@
   "description": "wesee-spider",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.14.0",
-    "phantom": "^2.1.21"
   },
   "devDependencies": {},
   "scripts": {
